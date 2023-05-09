@@ -63,7 +63,7 @@ Major tools:
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/chennakesha/ehr-blockchain.git
    ```
 2. Install NPM packages
    ```sh
